@@ -1,3 +1,4 @@
+```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title       ブラックジャックゲーム開発スケジュール
@@ -38,3 +39,4 @@ section ユーザーマニュアル作成
 
 section 展示会
   展示会 :k1, 2022-07-14, 1d
+```
